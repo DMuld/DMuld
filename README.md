@@ -1,4 +1,6 @@
-Hey, my name is DMuld. These is a vault of the personal projects I have been working with over the years. Please Enjoy. 
+Hey, my name is DMuld. 
+
+These is a vault of the personal projects I have been working with over the years. Please Enjoy. 
 
 
 Info:
