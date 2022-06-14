@@ -7,4 +7,4 @@ Info:
 
 -I am currently enrolled into a Bachlors of Computer Science accompanied by a minor in Mathematics.
 
--I want to get on the job experience in software engineering and programming that allow for on the job learning and experiences.
+-I want to pursue a career in Software Engineering/Development by finding a programming job that allows for on-the-job learning and experience.
